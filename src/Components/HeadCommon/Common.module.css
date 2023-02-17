@@ -1,0 +1,37 @@
+.Commonheads {
+  background-color: #6264a7;
+  width: 100%;
+  height: 10vh;
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+  color: white;
+}
+.Ico {
+  font-size: 16px;
+}
+.Icoos {
+  font-size: 40px !important;
+  padding-left: 20px;
+  margin-top: -6px;
+}
+.Icoons {
+  font-size: 20px !important;
+  font-weight: lighter;
+  color: #999aa1;
+}
+.headsearch {
+  font-size: 14px;
+  background-color: #dfe1ff;
+  border: none;
+  border-radius: 2px;
+  padding: 3.5px;
+  font-weight: lighter;
+}
+.Chatbox {
+  display: flex;
+  justify-content: space-between;
+  padding: 5px 5px;
+  align-items: center;
+  font-size: 14px;
+}
